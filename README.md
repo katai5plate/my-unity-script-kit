@@ -6,3 +6,4 @@
 
 1. `DOTween`, `UniRx` をインストール
 2. 全フォルダを `Scripts` にコピー
+3. `.editorconfig` をルート直下にコピー
